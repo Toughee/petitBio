@@ -1,4 +1,4 @@
-<center><img src="img/pb.png">></center>
+<center><img src="img/pb.png"></center>
 
 Small JavaScript app that provides a summary of a visitor's data and sends it to a excel database. 
 
