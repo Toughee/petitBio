@@ -1,6 +1,6 @@
-![petitBio icon](img/pb.png)
+<center>![petitBio icon](img/pb.png)</center>
 
-Small JavaScript app that provides a summary of a visitor's data and sends it to a excel database. Made just to know surface user data. 
+Small JavaScript app that provides a summary of a visitor's data and sends it to a excel database. 
 
 ## Information provided
 
@@ -17,7 +17,7 @@ npm
 
 ```
 
-### Installing for React
+### Installing for React(WIP)
 
 ```
 npm install petitBio
