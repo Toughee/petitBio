@@ -1,4 +1,4 @@
-<center>![petitBio icon](img/pb.png)</center>
+<center><img src="img/pb.png"></center>
 
 Small JavaScript app that provides a summary of a visitor's data and sends it to a excel database. 
 
@@ -14,14 +14,12 @@ Small JavaScript app that provides a summary of a visitor's data and sends it to
 Plain JavaScript
 Libre Office
 npm
-
 ```
 
 ### Installing for React(WIP)
 
 ```
 npm install petitBio
-
 ```
 
 ## Adding it to your website
@@ -32,5 +30,4 @@ npm install petitBio
 
 ```
 <script src="js/petitBio.js"></script>
-
 ```
