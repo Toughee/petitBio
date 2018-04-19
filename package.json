@@ -1,0 +1,28 @@
+{
+  "name": "petitbio",
+  "version": "0.9.0",
+  "description": "Small JavaScript app that provides a summary of a visitor's data and sends it to a database. (W.I.P)",
+  "main": "js/petitBio.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toughee/petitBio.git"
+  },
+  "keywords": [
+    "Devices",
+    "data-gathering",
+    "user-analysis",
+    "information"
+  ],
+  "author": "Toughee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toughee/petitBio/issues"
+  },
+  "homepage": "https://github.com/Toughee/petitBio#readme",
+  "dependencies": {
+    "debug-log": "^1.0.1"
+  }
+}

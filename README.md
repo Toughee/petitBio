@@ -1,22 +1,23 @@
-<center><img src="img/pb.png"></center>
+<img src="img/pb.png">
 
-Small JavaScript app that provides a summary of a visitor's data and sends it to a excel database. 
+Small JavaScript app that provides a summary of a 
+visitor's data and sends it to a database. (W.I.P)
 
-## Information provided
+## Information provided:
 
 - An user's timezone
 - An user's  operating system
 - An user's device
 
-## Tools used
+## Tools used:
 
 ```
-Plain JavaScript
+JavaScript
 Libre Office
 npm
 ```
 
-### Installing for React(WIP)
+### Installing for React
 
 ```
 npm install petitBio
